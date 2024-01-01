@@ -94,7 +94,9 @@ header a  {
 
  }
 .container {
-    text-align: center;
+    max-width: 350px;
+    display: block;
+    margin: auto;
  
 }
 
