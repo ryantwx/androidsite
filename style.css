@@ -9,7 +9,7 @@
 *{
     background-attachment: fixed;
     
-   
+ 
    
 }
 body{
@@ -93,13 +93,11 @@ header a  {
     box-shadow: inset 498px -4px 109px -70px #8cf57e67;
 
  }
-img {
-    padding-left: 10%;
-   
+.container {
+    text-align: center;
+ 
 }
-.bugdroid{
-    width: 50%;
-}
+
 .cab2{
     background-color: #5dee5bc9;
     height: 42px;
